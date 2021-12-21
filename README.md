@@ -58,6 +58,3 @@ http://127.0.0.1:8080/text
 3. CTPN  https://github.com/tianzhi0549/CTPN       
 4. chineseocr https://github.com/chineseocr/chineseocr
 
-## 技术支持合作  
-mail:chineseocr@hotmail.com     
-wechat:lywen52  
