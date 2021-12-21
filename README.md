@@ -38,6 +38,7 @@ docker run -it -p 8080:8080 darknet-ocr:1.0 python app.py
 ## web服务启动(支持文件上传及URL图像)
 ``` Bash
 cd darknet-ocr
+# 如果使用了GPU，需要在config.py里面修改GPU=False为GPU=True
 python3 app.py 8080
 ```
 
